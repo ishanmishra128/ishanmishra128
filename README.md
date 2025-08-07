@@ -3,7 +3,7 @@
 
 ## 🔍 About me
 
-📍 Junior at the University of Wisconsin-Madison 
+📍 Senior at the University of Wisconsin-Madison 
 
 
 🎓 Information Systems & Data Science Student 
