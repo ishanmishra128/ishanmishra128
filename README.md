@@ -9,9 +9,8 @@
 🎓 Information Systems & Data Science Student 
 
 
-I'm passionate about using data-driven insights to solve complex business problems and build impactful solutions. With experience in healthcare informatics, customer relations, and tech consulting, I love exploring new ways to integrate machine learning, analytics, and information systems into real-world applications.
+I'm passionate about using data-driven insights to solve complex business problems and build impactful solutions. With experience in Healthcare Informatics, Data Analysis relations, and tech consulting, I love exploring new ways to integrate machine learning, analytics, and information systems into real-world applications. I love applying machine learning and analytics to real problems, and my focus is on creating systems that make complex processes simple and efficient.
 
-All formalities aside, I love music, fishing, and biking!
 
 Check out my playlists here:
 
@@ -23,11 +22,15 @@ Check out my playlists here:
 
 **Languages**: English, Indonesian, Hindi, Spanish (B2), Malay (Basic)
 
+All formalities aside, I love music, fishing, and biking!
+
 
 ## 🚀 Projects I'm Working On
-🎶 Revamped Spotify Wrapped – Using my own 2024 Spotify data to showcase insights that I actually care about
+ - Education Data Analysis - Scraping and building pipelines to analyze public school data across US States
 
-🎣 Recreational Fishing Recommendation – ML-based location recommendations for anglers
+ - Revamped Spotify Wrapped – Using my own 2024 Spotify data to showcase insights that I actually care about
+
+ - Recreational Fishing Recommendation – ML-based location recommendations for anglers
 
 
 ## 📫 Connect with Me
@@ -38,4 +41,4 @@ Check out my playlists here:
 Email: imishra4@wisc.edu
  
 Feel free to explore my repositories and reach out if you’d like to collaborate!
-
+https://www.ishanmishra.tech/
