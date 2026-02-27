@@ -26,7 +26,7 @@ With experience across Healthcare Informatics, Data Engineering, and Cloud Platf
 * **Efficiency:** Built automated ETL workflows in **AWS Glue**, reducing manual processing time by **80%**.
 * **Results:** Deployed a SageMaker model achieving **97% accuracy** in predicting bankruptcy risk.
 
-### [Waste Classification with CNNs](https://github.com/ishanmishra128/ishanmishra128/blob/main/README.md)
+### [Waste Classification with CNNs]([https://github.com/ishanmishra128/ishanmishra128/blob/main/README.md](https://github.com/ishanmishra128/GarbageGrouping_DeepLearning_CNNs)
 * **Development:** Fine-tuned Convolutional Neural Networks (ResNet, MobileNetV3) to classify landfill waste.
 * **Impact:** Achieved **88.9% accuracy** across 9 categories, demonstrating potential for scalable waste management optimization.
 
