@@ -38,6 +38,12 @@ With experience across Healthcare Informatics, Data Engineering, and Cloud Platf
 * **Strategy:** Analyzed 55K+ participant data points to identify fundraising optimizations.
 * **Outcome:** Developed recommendations projected to **increase nonprofit donations by 20%**.
 
+### 🌐 [Lumina](https://lumina-uw.web.app/) | Full-Stack Web Development & CI/CD
+* **Project Overview:** Developed a collaborative platform for students to connect, form study groups, and manage academic networking.
+* **Technical Stack:** Built with a frontend of **HTML**, **CSS**, and **Bulma** for a responsive, role-based UI, powered by **JavaScript** for dynamic functionality.
+* **Backend & Database:** Integrated with **Firebase** to handle secure user authentication (Login/Signup) and real-time database management for group memberships and student profiles.
+* **CI/CD Automation:** Engineered a robust deployment pipeline using **GitHub Actions**. Configured automated workflows to trigger live site updates to **Firebase Hosting** on every push to the `main` branch.
+
 ---
 
 ## 🏆 Leadership & Involvement
